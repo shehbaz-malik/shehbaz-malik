@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Software Architect | AI Integration Specialist**
 
-I build scalable B2B platforms, e-commerce engines, and AI-driven applications. With over 6 years of experience, I bridge the gap between complex backend logic and seamless user experiences.
+I build scalable B2B platforms, e-commerce engines, and AI-driven applications. With multiple years of experience, I bridge the gap between complex backend logic and seamless user experiences.
 
 ---
 
