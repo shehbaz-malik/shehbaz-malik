@@ -21,7 +21,7 @@ I build scalable B2B platforms, e-commerce engines, and AI-driven applications. 
 
 ### 🌐 Connect With Me
 - **Portfolio:** [shehbaz-malik.github.io](https://shehbaz-malik.github.io)
-- **LinkedIn:** [linkedin.com/in/pro-remote-web-developer](https://www.linkedin.com/in/pro-remote-web-developer)
+- **LinkedIn:** [linkedin.com/in/shehbaz--malik](https://www.linkedin.com/in/shehbaz--malik)
 - **Specialties:** SaaS Development, CRM/ERP Solutions, Automation & Scraping
 
 ---
